@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Rudra1510
+- 👀 I’m interested in Python, Machine Learning, Web Scrapping and AI Assitants
+- 🌱 I’m currently learning Neural Networks
+- 💞️ I’m looking to collaborate on Literally anything from my interests
+- 📫 How to reach me https://shor.by/therudrabarot
